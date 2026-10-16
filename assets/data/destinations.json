@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Cancún",
+    "location": "Quintana Roo",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Playas paradisíacas de arena blanca y aguas cristalinas."
+  },
+  {
+    "id": 2,
+    "name": "Oaxaca",
+    "location": "Oaxaca",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206",
+    "description": "Capital cultural reconocida por su gastronomía y tradiciones."
+  },
+  {
+    "id": 3,
+    "name": "Palenque",
+    "location": "Chiapas",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1528127269322-539801943592",
+    "description": "Zona arqueológica maya rodeada de selva."
+  },
+  {
+    "id": 4,
+    "name": "Los Cabos",
+    "location": "Baja California Sur",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+    "description": "Destino turístico famoso por sus playas y deportes acuáticos."
+  },
+  {
+    "id": 5,
+    "name": "Puerto Vallarta",
+    "location": "Jalisco",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "description": "Hermoso destino costero con gran vida nocturna."
+  },
+  {
+    "id": 6,
+    "name": "San Cristóbal de las Casas",
+    "location": "Chiapas",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+    "description": "Ciudad mágica con arquitectura colonial y cultura indígena."
+  }
+]
