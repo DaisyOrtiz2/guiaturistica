@@ -1,7 +1,7 @@
 import '../models/destination_model.dart';
 import '../services/destination_service.dart';
 
-class DestinationRepository {
+class DestinationRepository {//holo
 
   final DestinationService service;
 
